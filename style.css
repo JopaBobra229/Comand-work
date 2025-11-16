@@ -1,0 +1,143 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+body {
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    height: 100vh;
+    font-family: "PT Sans", sans-serif;
+}
+.pipo{
+
+font-family: 'PT Serif';
+
+}
+
+.nein{
+width: 100vw;
+height: 100vh;
+}
+
+.Jojo{
+
+}
+
+
+.NYAN{
+border-radius: 10px;
+width: 100%;    
+}
+
+.jopa_bobra{
+display: flex;
+width:100%;
+height:50%;
+background-color: rgba(233, 173, 200, 0.62);
+gap:1em;
+justify-content: space-between;
+padding: 2em;
+
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 100px;
+    font-family: "PT Sans Caption", sans-serif;
+    box-sizing: border-box;
+    padding: 0 64px;
+}
+
+.logo {
+    height: 60%;
+}
+
+.logo img {
+    height: 100%;
+}
+
+nav {
+    height: 100%;
+    display: flex;
+    gap: 32px;
+    align-items: center;
+}
+None
+
+.asd {
+    font-family: serif;
+    width:60% ;
+    font-size: 3em;
+
+}
+
+.p {
+    font-size: larger;
+}
+
+.a {
+    width: 26hug;
+    height: 64hug;
+    top: 68px;
+    left: 96px;
+    angle: 0 deg;
+    opacity: 1;
+    gap: 32px;
+    display: flex;
+    justify-content:left ;
+
+
+}
+
+
+button {
+    background-color: black;
+    color: white;
+    font-family: sans-serif;
+    width: 27vw;
+    height: 12vh;
+    
+    
+
+}
+
+.a {
+    margin-bottom: 50vh;
+}
+
+#q {
+    width: 15%;
+    height: 5%;
+}
+
+#f {
+    width: 15%;
+    height: 5%;
+}
+
+#j {
+    width: 15%;
+    height: 5%;
+}
+
+.hoika {
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+}
+
+
+.fayagul {
+    width: 50%;
+    height: 100;
+    padding-right: 60px;
+}
+
+.alla {
+    display: flex;
+    justify-content: space-between;
+}
+None
+
+
